@@ -1,0 +1,5 @@
+login          iniciar session 
+register       registrarse 
+username       nombre de usuario
+password       contraseña
+logout         volver
